@@ -1,0 +1,1 @@
+Playing with the API section >> https://docs.djangoproject.com/en/4.0/intro/tutorial02/
